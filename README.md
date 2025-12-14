@@ -1,3 +1,5 @@
+**Note:** This project was completed as part of the COP2220C Programming in C course and is intended to demonstrate C fundamentals such as structs, input validation, file I/O, and modular program design.
+
 # Transmission Manager
 
 This project is a **menu-driven C program** designed to manage car transmission records.  
